@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Currently learning LLM orchestration and optimizing AI agents.<br>Obsessed with linear regression and vector-based databases (Qdrant).<br>I used to code in the .NET ecosystem (ML.NET/Blazor, but now I work primarily in Python and JavaScript.)<br>Grinding daily on a repository solving "Project Euler" problems (EulerSolutions-C).<br>Previously worked on industrial projects (private repos 😭).
 
 
