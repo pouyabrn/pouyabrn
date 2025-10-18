@@ -1,4 +1,4 @@
-# if you are from race-up please check 😭
+# if you are from race-up please check these repositories 😭, thanks for your time 
 https://github.com/pouyabrn/V-Qualia (https://github.com/pouyabrn/LapPredictionEngine) **
 
 https://github.com/pouyabrn/DockerizedTelemetryStack-assignment (assignment 2)
