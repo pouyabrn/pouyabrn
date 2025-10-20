@@ -1,4 +1,5 @@
 # if you are from race-up please check these repositories 😭, thanks for your time 
+https://v-qualia-frontend.onrender.com/ (Deployed so you can use it rn)
 https://github.com/pouyabrn/V-Qualia (https://github.com/pouyabrn/LapPredictionEngine) **
 
 https://github.com/pouyabrn/DockerizedTelemetryStack-assignment (assignment 2)
