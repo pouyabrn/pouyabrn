@@ -1,12 +1,3 @@
-# if you are from race-up please check these repositories 😭, thanks for your time 
-https://v-qualia-frontend.onrender.com/ (Deployed so you can use it rn)
-
-https://github.com/pouyabrn/V-Qualia (https://github.com/pouyabrn/LapPredictionEngine) **
-
-https://github.com/pouyabrn/DockerizedTelemetryStack-assignment (assignment 2)
-
-https://github.com/pouyabrn/LIN-PP-Basic-Assignment (assignment 3)
-
 # 
 Currently learning LLM orchestration and optimizing AI agents.<br>Obsessed with linear regression and vector-based databases (Qdrant).<br>I used to code in the .NET ecosystem (ML.NET/Blazor, but now I work primarily in Python and JavaScript.)<br>Grinding daily on a repository solving "Project Euler" problems (EulerSolutions-C).<br>Previously worked on industrial projects (private repos 😭).
 
